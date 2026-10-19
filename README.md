@@ -14,7 +14,7 @@ Pin **the installed Verso Video Editor app**, not a development Electron window 
 
 ## Current scope
 
-Local alpha: multitrack editing, numbered EXR/SDR sequences, missing-frame warnings with black placeholders, source versions/custom metadata, resizable panels and H.264/Rec.709 export. Default ACES view is **ACES 1.0 - SDR Video**.
+Local alpha: multitrack editing, numbered EXR/SDR sequences, missing-frame warnings with black placeholders, source versions/custom metadata, resizable panels, endpoint-controlled horizontal/vertical zoom bars, per-clip proxy-cache status, frame timing and full-height frame lines. Viewer and H.264 export share **sRGB - Display / ACES 1.0 - SDR Video** for ACES sources.
 
 ## Security and third-party software
 
